@@ -2,9 +2,6 @@
 > A comprehensive **multi-channel electronics retail sales analytics** dashboard built with Power BI, covering 15,000 transactions across 13 Indian stores and one online platform over a 2-year period (Jan 2024 – Jan 2026).
 ---
 ## 📸 Dashboard Preview
-
-> 📌 *Add your Power BI dashboard screenshots below by replacing the placeholder paths.*
-
 ### 🖥️ Executive Dashboard
 ![Executive Dashboard](./Executive%20Dashboard.png)
 

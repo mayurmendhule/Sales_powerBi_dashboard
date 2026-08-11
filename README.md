@@ -193,10 +193,10 @@ print(revenue_by_category)
 
 | Platform | Link |
 |----------|------|
-| 📊 Kaggle | [Your Kaggle Profile](#) |
-| 💼 LinkedIn | [Your LinkedIn](#) |
-| 🐙 GitHub | [Your GitHub](#) |
-| 📧 Email | your@email.com |
+| 📊 Kaggle | https://www.kaggle.com/datasets/mayur2303/ |
+| 💼 LinkedIn | https://www.linkedin.com/in/sd-mmendhule/ |
+| 🐙 GitHub | https://github.com/mayurmendhule/ |
+| 📧 Email | mayurmendhule03@gmail.com |
 
 ---
 
